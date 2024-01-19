@@ -1,0 +1,38 @@
+#name
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contact{
+   
+    width: 20%;
+    background-color: #000000;
+    
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+hr{
+    border-color: rgb(77, 255, 0);
+}
+
+table, th, td {
+    border:2px solid;
+    width: 30%;
+    border-color: chartreuse;
+    background-color:rgb(195, 247, 229);
+    
+    
+   }
+.display-10{
+    font-family: 'Lobster', sans-serif;
+}
+h2{
+    font-family: 'Space Grotesk', sans-serif;
+}
+p1{
+    font-family: 'Space Grotesk', sans-serif;
+}
